@@ -31,7 +31,7 @@ void cast_vote()  // function to cast vote
     line30:
         printf("\n\n **** Please choose your Candidate ****\n\n");
         printf("\n 1. %s", CANDIDATE1);
-        printf("\n 2. %s", CANDIDATE2);
+        printf("\n 2. %s", CANDIDATE2); 
         printf("\n 3. %s", CANDIDATE3);
         printf("\n 4. %s", CANDIDATE4);
         printf("\n 5. %s", CANDIDATE5);
